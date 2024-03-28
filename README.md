@@ -1,2 +1,2 @@
-# Systematic trading based on machine learning algorithms 
+# Advanced Machine Learning Strategies for Systematic Trading
 Brainstorming potential cross asset systematic trading strategies using machine learning techniques
